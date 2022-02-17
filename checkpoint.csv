@@ -1,0 +1,262 @@
+,name,price,vendor,ram,rom,brand
+0,Samsung Galaxy S20 FE 128GB 4,2.464.950,Claro,,128,Samsung
+1,Samsung Galaxy S20 FE 256GB 4,2.699.950,Claro,,256,Samsung
+2,iPhone SE 64GB 4,2.447.960,Claro,,64,iPhone
+3,Nokia G10 64GB 4,708.900,Claro,,64,Nokia
+4,Xiaomi Redmi Note 10S 4,1.224.900,Claro,,,Xiaomi
+5,Samsung Galaxy A52 128GB 4,1.699.950,Claro,,128,Samsung
+6,Nokia G20 128GB 4,797.900,Claro,,128,Nokia
+7,Alcatel 1SE 32GB 4,399.900,Claro,,32,Alcatel
+8,ZTE Blade A31 Lite 4,249.900,Claro,,,ZTE
+9,Oppo A16 64GB 4G con Obsequi,797.900,Claro,,64,Oppo
+10,ZTE Blade A51 4G con Obsequi,479.900,Claro,,,ZTE
+11,Samsung Galaxy A12 128GB 4G Dual Si,757.900,Claro,,128,Samsung
+12,Samsung Galaxy A32 4G Dual Si,1.220.950,Claro,,,Samsung
+13,Xiaomi Redmi 10 64GB 4,797.900,Claro,,64,Xiaomi
+14,Motorola Edge 20 Pro 256GB 5G con Obsequi,3.857.900,Claro,,256,Motorola
+15,Honor 50 Lite 128GB 4,1.570.900,Claro,,128,Honor
+16,Vivo V21 128GB 4,1.963.900,Claro,,128,Vivo
+17,Motorola Moto G50 5,1.249.900,Claro,,,Motorola
+18,Samsung Galaxy A22 128GB 4G Dual Si,1.075.950,Claro,,128,Samsung
+19,Samsung Galaxy S20 FE 256GB 4G Dual Si,2.528.950,Claro,,256,Samsung
+20,Oppo A16 64GB 4,797.900,Claro,,64,Oppo
+21,ZTE Blade A71 4,610.900,Claro,,,ZTE
+22,Samsung Galaxy A52s 128GB 5,2.031.950,Claro,,128,Samsung
+23,Motorola Moto G20 128GB 4,795.900,Claro,,128,Motorola
+24,Realme C11 32GB 4,542.900,Claro,,32,Realme
+25,Samsung Galaxy A03s 64GB 4,666.900,Claro,,64,Samsung
+26,Nokia X20 128GB 5,1.569.900,Claro,,128,Nokia
+27,Xiaomi Redmi 10 128GB 4,1.055.900,Claro,,128,Xiaomi
+28,Motorola Moto G60S 4,1.700.900,Claro,,,Motorola
+29,Huawei Y6P 4G con Obsequi,689.900,Claro,,,Huawei
+30,Samsung Galaxy Z Flip3 5,5.132.950,Claro,,,Samsung
+31,Vivo Y33 128GB 4,797.900,Claro,,128,Vivo
+32,Vivo Y53s 128GB 4,$1.549.900,Claro,,128,Vivo
+33,Honor 50 128GB 5G con Obsequi,$2.576.900,Claro,,128,Honor
+34,Honor 50 256GB 5G con Obsequi,$3.083.900,Claro,,256,Honor
+35,Vivo Y20 64GB 4G con Obsequi,$686.900,Claro,,64,Vivo
+36,Samsung Galaxy A21S 128GB 4G con Obsequi,$799.900,Claro,,128,Samsung
+37,ZTE Blade A51 4G con Obsequi,$429.900,Claro,,,ZTE
+38,Vivo Y33s 128GB 4G con Obsequi,$1.437.900,Claro,,128,Vivo
+39,Honor 50 Lite 128GB 4G con Obsequi,$1.570.900,Claro,,128,Honor
+40,Honor 50 Lite 128GB 4G con Obsequi,$1.570.900,Claro,,128,Honor
+41,Oppo A16 64GB 4G con Obsequi,$797.900,Claro,,64,Oppo
+42,Samsung Galaxy S20 FE 256GB 4G con Obsequ,$2.699.950,Claro,,256,Samsung
+43,Vivo V21 128GB 4G con Obsequi,$1.963.900,Claro,,128,Vivo
+44,Samsung Galaxy A32 4G con Obsequi,$1.268.950,Claro,,,Samsung
+45,Nokia C01 Plus 32GB 4G con Obsequi,$399.900,Claro,,32,Nokia
+46,Samsung Galaxy A03s 64GB 4G con Obsequi,$666.900,Claro,,64,Samsung
+47,Samsung Galaxy S21 FE 256GB 5G con Obsequ,$3.991.950,Claro,,256,Samsung
+48,Vivo Y33s 128GB 4,$1.437.900,Claro,,128,Vivo
+49,Motorola Moto G20 128GB 4G con Obsequi,$795.900,Claro,,128,Motorola
+50,Motorola Edge 20 Lite 128GB 4,$2.053.900,Claro,,128,Motorola
+51,Motorola Moto G20 128GB 4G con Obsequi,$795.900,Claro,,128,Motorola
+52,Vivo V21 128GB 4G con Obsequi,$1.963.900,Claro,,128,Vivo
+53,Motorola Moto G100 4G con Obsequi,$2.417.900,Claro,,,Motorola
+54,TCL 20E 128GB con Obsequi,$718.900,Claro,,128,
+55,TCL 20E 64GB 4G con Obsequi,$639.900,Claro,,64,
+56,Vivo Y53s 128GB 4G con Obsequi,$1.549.900,Claro,,128,Vivo
+57,TCL 20L 128GB 4G con Obsequi,$1.249.900,Claro,,128,
+58,Oppo Reno 6 Lite 4,$1.824.900,Claro,,,Oppo
+59,Samsung Galaxy A52s 128GB 5G Dual Si,$1.984.950,Claro,,128,Samsung
+60,ZTE Blade V30 Vita 4,$781.900,Claro,,,ZTE
+61,Vivo Y20s 128GB 4G con Obsequi,$760.900,Claro,,128,Vivo
+62,Nokia G50 128GB 5,$1.407.900,Claro,,128,Nokia
+63,Oppo Reno 6 Lite 4G con Obsequi,$1.824.900,Claro,,,Oppo
+64,iPhone 12 Mini 64GB 4,3.994.960,Claro,,64,iPhone
+65,iPhone 12 64GB 4,4.485.960,Claro,,64,iPhone
+66,iPhone 12 128GB 4,4.816.960,Claro,,128,iPhone
+67,Xiaomi Redmi 9 4,769.900,Claro,,,Xiaomi
+68,Samsung Galaxy A21S 128GB 4,799.900,Claro,,128,Samsung
+69,Realme 7i 128GB 4,779.900,Claro,,128,Realme
+70,Realme C15 128GB 4,696.900,Claro,,128,Realme
+71,Samsung Galaxy S21 Ultra 4,6.309.950,Claro,,,Samsung
+72,Samsung Galaxy S21 128GB 4,4.031.950,Claro,,128,Samsung
+73,iPhone 11 64GB 4,3.495.960,Claro,,64,iPhone
+74,iPhone 11 128GB 4,3.664.960,Claro,,128,iPhone
+75,TCL 20E 64GB 4,499.900,Claro,,64,
+76,Xiaomi Redmi Note 10 5,1.314.900,Claro,,,Xiaomi
+77,Vivo Y20s 128GB 4,760.900,Claro,,128,Vivo
+78,Samsung Galaxy A21S 128GB 4G Dual Si,799.900,Claro,,128,Samsung
+79,TCL 20E 128GB con Obsequi,569.900,Claro,,128,
+80,Samsung Galaxy M12 128GB 4G con Obsequi,789.900,Claro,,128,Samsung
+81,Poco M3 4,999.900,Claro,,,
+82,Oppo A15 32GB 4,640.900,Claro,,32,Oppo
+83,Xiaomi Redmi Note 10 Pro 4,1.651.900,Claro,,,Xiaomi
+84,Oppo Reno 5 Lite 4,1.497.900,Claro,,,Oppo
+85,Poco X3 Pro 128GB 4,1.315.900,Claro,,128,
+86,Samsung Galaxy A32 4,1.268.950,Claro,,,Samsung
+87,Samsung Galaxy S21 256GB 4,4.279.950,Claro,,256,Samsung
+88,TCL 20L 128GB 4,1.249.900,Claro,,128,
+89,TCL 20L Plus 256GB 4G con Obsequi,1.299.900,Claro,,256,
+90,Poco F3 256GB 4G con Obsequi,2.404.900,Claro,,256,
+91,Samsung Galaxy S21 Plus 4,4.977.950,Claro,,,Samsung
+92,Samsung Galaxy M32 4G con Obsequi,1.099.950,Claro,,,Samsung
+93,Samsung Galaxy M32 4,1.099.950,Claro,,,Samsung
+94,Samsung Galaxy M12 64GB 4G con Obsequi,763.900,Claro,,64,Samsung
+95,Samsung Galaxy A22 128GB 4,1.099.950,Claro,,128,Samsung
+96,TCL 20 Pro 256GB 5G con Obsequi,2.679.900,Claro,,256,
+97,Xiaomi 11 Lite 5G N,2.207.900,Claro,,,Xiaomi
+98,Xiaomi 11 Lite 5G NE con Obsequi,2.207.900,Claro,,,Xiaomi
+99,Samsung Galaxy S20 FE 128GB 4G Dual Si,2.294.950,Claro,,128,Samsung
+100,Kodak D50L 32GB 4,279.900,Claro,,32,
+101,Xiaomi 11T 5,2.649.900,Claro,,,Xiaomi
+102,iPhone 13 128GB 5,5.145.960,Claro,,128,iPhone
+103,iPhone 13 256GB 5,5.819.960,Claro,,256,iPhone
+104,iPhone 13 Mini 128GB 5,4.673.960,Claro,,128,iPhone
+105,iPhone 13 Pro Max 128GB 5,7.314.960,Claro,,128,iPhone
+106,iPhone 13 Pro Max 256GB 5,7.980.960,Claro,,256,iPhone
+107,iPhone 13 Pro 128GB 5,6.654.960,Claro,,128,iPhone
+108,iPhone 13 Pro 256GB 5,7.321.960,Claro,,256,iPhone
+109,Samsung Galaxy S20 FE 128GB 4G con Obsequ,$2.464.950,Claro,,128,Samsung
+110,Samsung Galaxy M52 128GB 5,$1.599.950,Claro,,128,Samsung
+111,Vivo Y21s 128GB 4G con Obsequi,$1.303.900,Claro,,128,Vivo
+112,Kodak D55L 32GB 4G con Obsequi,$339.900,Claro,,32,
+113,Kodak D55L 32GB 4G con Obsequi,$339.900,Claro,,32,
+114,Kodak D60LX 32GB 4G con Obsequi,$424.900,Claro,,32,
+115,Kodak D60LX 32GB 4G con Obsequi,$424.900,Claro,,32,
+116,Realme C15 128GB 4G con Obsequi,$696.900,Claro,,128,Realme
+117,Kodak D50L 32GB 4G con Obsequi,$279.900,Claro,,32,
+118,Kodak D65LX 64GB 4G con Obsequi,$583.900,Claro,,64,
+119,Kodak D65LX 64GB 4G con Obsequi,$583.900,Claro,,64,
+120,Huawei P50 Pro 256GB 4G con Obsequi,$5.298.900,Claro,,256,Huawei
+121,Huawei Watch Kids 4 Pro 4G con Obsequi,$699.900,Claro,,,Huawei
+122,Xiaomi 11T Pro 5G con Obsequi,$2.981.900,Claro,,,Xiaomi
+123,Xiaomi 11 Lite 5G NE con Obsequi,$2.207.900,Claro,,,Xiaomi
+124,Vivo V21 128GB 4G con Obsequi,$1.963.900,Claro,,128,Vivo
+125,Xiaomi 11T 5G con Obsequi,$2.649.900,Claro,,,Xiaomi
+126,iPhone 12 Pro 128GB 4,5.299.960,Claro,,128,iPhone
+127,Xiaomi Redmi Note 9 Pro 4,1.447.900,Claro,,,Xiaomi
+128,Samsung Galaxy Note 20 Ultra 4,5.136.950,Claro,,,Samsung
+129,iPhone 12 Pro 256GB 4,5.391.960,Claro,,256,iPhone
+130,Huawei Y6P 4,689.900,Claro,,,Huawei
+131,Huawei Y9a 4,1.392.900,Claro,,,Huawei
+132,iPhone 12 Pro Max 128GB 4,5.949.960,Claro,,128,iPhone
+133,Motorola Moto G9 Plus 4,1.325.900,Claro,,,Motorola
+134,iPhone SE 128GB 4,2.736.960,Claro,,128,iPhone
+135,Huawei Y5P 4,430.900,Claro,,,Huawei
+136,Motorola Moto G20 4,692.900,Claro,,,Motorola
+137,Honor 50 256GB 5,3.083.900,Claro,,256,Honor
+138,Huawei Nova 8i 128GB 4,1.659.900,Claro,,128,Huawei
+139,Motorola Moto E20 4,469.900,Claro,,,Motorola
+140,Motorola Moto G20 4G con Obsequi,$692.900,Claro,,,Motorola
+141,Honor 50 128GB 5G con Obsequi,$2.576.900,Claro,,128,Honor
+142,Motorola Moto G20 4G con Obsequi,$692.900,Claro,,,Motorola
+143,Honor 50 256GB 5G con Obsequi,$3.083.900,Claro,,256,Honor
+144,Huawei Nova 9 128GB 4,$2.474.900,Claro,,128,Huawei
+145,Honor 50 128GB 5,$2.576.900,Claro,,128,Honor
+146,Huawei Y5P 4G con Obsequi,$430.900,Claro,,,Huawei
+147,Motorola Moto E40 4G con Obsequi,$644.900,Claro,,,Motorola
+148,ZTE Blade L8 32GB 3,209.900,Claro,,32,ZTE
+149,Oppo A54 128GB 4G con Obsequi,$1.317.900,Claro,,128,Oppo
+150,Samsung Galaxy A12 64GB 4,726.900,Claro,,64,Samsung
+151,Samsung Galaxy A12 128GB 4,797.900,Claro,,128,Samsung
+152,ZTE Blade L130 16GB 3,164.900,Claro,,16,ZTE
+153,Samsung Galaxy A12 64GB 4G Dual Si,706.900,Claro,,64,Samsung
+154,Samsung Galaxy A12 64GB 4G con Obsequi,$726.900,Claro,,64,Samsung
+155,Nokia 110 4,$174.900,Claro,,,Nokia
+156,Nokia 215 4,169.900,Claro,,,Nokia
+157,Nokia 6300 4,244.900,Claro,,,Nokia
+158,Xiaomi Redmi 9A 4,459.900,Claro,,,Xiaomi
+159,Xiaomi Redmi 9C 4,657.900,Claro,,,Xiaomi
+160,IPHONE 13 PRO MAX 256GB,$6.399.901,Tigo,,256,iPhone
+161,IPHONE 13 PRO MAX 128GB,$5.799.901,Tigo,,128,iPhone
+162,IPHONE 13 PRO 128GB,$5.299.901,Tigo,,128,iPhone
+163,Samsung Galaxy ZFLIP3 8/256,$4.999.900,Tigo,8,,Samsung
+164,IPHONE 13  256GB,$4.799.901,Tigo,,256,iPhone
+165,Samsung Galaxy S21+,$4.299.900,Tigo,,,Samsung
+166,iPhone 12 128GB,$3.739.901,Tigo,,128,iPhone
+167,Samsung S21FE 5G 256GB + buds2,$3.499.900,Tigo,,256,Samsung
+168,iPhone 12 64GB,$3.452.901,Tigo,,64,iPhone
+169,Samsung Galaxy S20 FE 256GB DSIM,$2.699.900,Tigo,,256,Samsung
+170,Samsung Galaxy S20 FE 128GB DSIM,$2.199.900,Tigo,,128,Samsung
+171,XIAOMI 11 LITE 5G NE 6/128GB,$1.999.999,Tigo,6,128,Xiaomi
+172,MOTO G100,$1.999.900,Tigo,,,Motorola
+173,iPhone SE 64 GB,$1.979.901,Tigo,,64,iPhone
+174,Samsung Galaxy A72 128GB,$1.799.900,Tigo,,128,Samsung
+175,Vivo V21 128GB,$1.799.900,Tigo,,128,Vivo
+176,Samsung A52S 5G 6GB/128GB,$1.699.900,Tigo,6,128,Samsung
+177,Oppo Reno 6 Lite,$1.699.900,Tigo,,,Oppo
+178,Samsung Galaxy A52,$1.399.900,Tigo,,,Samsung
+179,Vivo Y53s + Banda,$1.259.900,Tigo,,,Vivo
+180,MOTO G60S 6/128 GB,$1.199.900,Tigo,6,128,Motorola
+181,VIVO Y33S 128GB/8GB,$1.129.900,Tigo,8,128,Vivo
+182,Samsung Galaxy A32,$1.099.900,Tigo,,,Samsung
+183,Huawei Y9A 128GB,$1.049.900,Tigo,,128,Huawei
+184,OPPO A54,$835.900,Tigo,,,Oppo
+185,VIVO Y21S,$799.900,Tigo,,,Vivo
+186,Moto G30 128 GB,$779.900,Tigo,,128,Motorola
+187,Samsung Galaxy A21s,$699.900,Tigo,,,Samsung
+188,Vivo Y20S,$699.900,Tigo,,,Vivo
+189,vivo Y11s,$699.900,Tigo,,,Vivo
+190,MOTO G20 ED 4/128 GB,$679.900,Tigo,4,128,Motorola
+191,Samsung Galaxy A12 128GB DSIM,$669.900,Tigo,,128,Samsung
+192,HUAWEI NOVA Y60 4/64 GB,$650.900,Tigo,4,64,Huawei
+193,Nokia G20 128GB,$629.900,Tigo,,128,Nokia
+194,Samsung Galaxy M12 128gb,$619.900,Tigo,,128,Samsung
+195,NOKIA C30,$599.900,Tigo,,,Nokia
+196,VIVO Y20,$579.900,Tigo,,,Vivo
+197,Samsung Galaxy A12 64GB,$569.900,Tigo,,64,Samsung
+198,Moto E40,$549.900,Tigo,,,Motorola
+199,Samsung Galaxy A03S 64GB,$529.900,Tigo,,64,Samsung
+200,Nokia G10 64GB,$529.900,Tigo,,64,Nokia
+201,Huawei Y6P con HMS,$499.900,Tigo,,,Huawei
+202,MOTO E20 2/32 GB,$429.900,Tigo,2,32,Motorola
+203,ZTE Blade A51,$429.900,Tigo,,,ZTE
+204,Xiaomi Redmi 9A,$399.900,Tigo,,,Xiaomi
+205,MOTOROLA E6I 32GB,$349.900,Tigo,,32,Motorola
+206,Huawei Y5P con HMS,$349.900,Tigo,,,Huawei
+207,Nokia 6300 4G,$159.900,Tigo,,,Nokia
+208,VIVO Y21S,$799.900,Tigo,,,Vivo
+209,Samsung Galaxy A03S 64GB,$529.900,Tigo,,64,Samsung
+210,Nokia 1.4 32GB,$279.900,Tigo,,32,Nokia
+211,Celular SAMSUNG Galaxy M12 128GB Azul,$619.900,Ktronix,,128,Samsung
+212,Celular MOTOROLA G31 128GB Azul,$799.900,Ktronix,,128,Motorola
+213,Celular XIAOMI REDMI 10 128GB Gris,$796,Ktronix,,128,Xiaomi
+214,Celular SAMSUNG Galaxy A12 64GB Negro,$599.900,Ktronix,,64,Samsung
+215,Celular XIAOMI REDMI 10 128GB Azul,$796,Ktronix,,128,Xiaomi
+216,Celular MOTOROLA G20 128GB VERDE,$699.900,Ktronix,,128,Motorola
+217,"iPhone 11 128 GB ""Blanco",$2.909,Ktronix,,,iPhone
+218,Celular SAMSUNG Galaxy A12 64GB Azul,$599.900,Ktronix,,64,Samsung
+219,Celular Xiaomi Redmi Note 10S 128GB Gris,$1.099.900,Ktronix,,128,Xiaomi
+220,Celular Xiaomi Redmi Note 10S 128GB Azul,$1.099.900,Ktronix,,128,Xiaomi
+221,Celular XIAOMI REDMI 9A 32GB  Verde - Peacock Green,$399.900,Ktronix,,32,Xiaomi
+222,Celular SAMSUNG Galaxy M12 128GB Negro,$619.900,Ktronix,,128,Samsung
+223,"iPhone 11 128 GB ""Morado",$2.909,Ktronix,,,iPhone
+224,"iPhone 11 128 GB ""Negro",$2.909,Ktronix,,,iPhone
+225,Celular XIAOMI REDMI 9C 64GB Gris,$499.900,Ktronix,,64,Xiaomi
+226,Celular MOTOROLA G20 128GB AZUL,$699.900,Ktronix,,128,Motorola
+227,Celular SAMSUNG Galaxy A52 128GB Azul,$1.399.090,Ktronix,,128,Samsung
+228,Celular SAMSUNG M32 128 GB Negro,$1.065.090,Ktronix,,128,Samsung
+229,Celular XIAOMI REDMI 9A 32GB  Gris - Granite Gray,$399.900,Ktronix,,32,Xiaomi
+230,Celular MOTOROLA E20 32GB Gris,$469.900,Ktronix,,32,Motorola
+231,iPhone 13 Pro Max 128GB Azul Sierra,$5.849,Ktronix,,128,iPhone
+232,Celular XIAOMI Redmi Note 10S 128GB Gris,$1.099.900,Ktronix,,128,Xiaomi
+233,Celular SAMSUNG Galaxy S20 FE 256GB Azul,$2.699,Ktronix,,256,Samsung
+234,Celular SAMSUNG M32 128 GB Azul,$1.065.090,Ktronix,,128,Samsung
+235,"iPhone 11 64 GB ""Negro",$2.699,Ktronix,,,iPhone
+236,Celular SAMSUNG Galaxy M12 128GB Azul,$619.900,Ktronix,,128,Samsung
+237,Celular MOTOROLA G31 128GB Azul,$799.900,Ktronix,,128,Motorola
+238,Celular XIAOMI REDMI 10 128GB Gris,$796,Ktronix,,128,Xiaomi
+239,Celular SAMSUNG Galaxy A12 64GB Negro,$599.900,Ktronix,,64,Samsung
+240,Celular XIAOMI REDMI 10 128GB Azul,$796,Ktronix,,128,Xiaomi
+241,Celular MOTOROLA G20 128GB VERDE,$699.900,Ktronix,,128,Motorola
+242,"iPhone 11 128 GB ""Blanco",$2.909,Ktronix,,,iPhone
+243,Celular SAMSUNG Galaxy A12 64GB Azul,$599.900,Ktronix,,64,Samsung
+244,Celular Xiaomi Redmi Note 10S 128GB Gris,$1.099.900,Ktronix,,128,Xiaomi
+245,Celular Xiaomi Redmi Note 10S 128GB Azul,$1.099.900,Ktronix,,128,Xiaomi
+246,Celular XIAOMI REDMI 9A 32GB  Verde - Peacock Green,$399.900,Ktronix,,32,Xiaomi
+247,Celular SAMSUNG Galaxy M12 128GB Negro,$619.900,Ktronix,,128,Samsung
+248,"iPhone 11 128 GB ""Morado",$2.909,Ktronix,,,iPhone
+249,"iPhone 11 128 GB ""Negro",$2.909,Ktronix,,,iPhone
+250,Celular XIAOMI REDMI 9C 64GB Gris,$499.900,Ktronix,,64,Xiaomi
+251,Celular MOTOROLA G20 128GB AZUL,$699.900,Ktronix,,128,Motorola
+252,Celular SAMSUNG Galaxy A52 128GB Azul,$1.399.090,Ktronix,,128,Samsung
+253,Celular SAMSUNG M32 128 GB Negro,$1.065.090,Ktronix,,128,Samsung
+254,Celular XIAOMI REDMI 9A 32GB  Gris - Granite Gray,$399.900,Ktronix,,32,Xiaomi
+255,Celular MOTOROLA E20 32GB Gris,$469.900,Ktronix,,32,Motorola
+256,iPhone 13 Pro Max 128GB Azul Sierra,$5.849,Ktronix,,128,iPhone
+257,Celular XIAOMI Redmi Note 10S 128GB Gris,$1.099.900,Ktronix,,128,Xiaomi
+258,Celular SAMSUNG Galaxy S20 FE 256GB Azul,$2.699,Ktronix,,256,Samsung
+259,Celular SAMSUNG M32 128 GB Azul,$1.065.090,Ktronix,,128,Samsung
+260,"iPhone 11 64 GB ""Negro",$2.699,Ktronix,,,iPhone

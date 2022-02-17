@@ -1,0 +1,6 @@
+*_files/
+*:Zone.Identifier
+*ipynb_checkpoints
+*.pyc
+*cfg
+scrapper/

@@ -162,7 +162,7 @@
 160,IPHONE 13 PRO MAX 256GB,$6.399.901,Tigo,,256,iPhone,13 pro max 
 161,IPHONE 13 PRO MAX 128GB,$5.799.901,Tigo,,128,iPhone,13 pro max 
 162,IPHONE 13 PRO 128GB,$5.299.901,Tigo,,128,iPhone,13 pro 
-163,Samsung Galaxy ZFLIP3 8/256,$4.999.900,Tigo,8,,Samsung,galaxy zflip3 8256
+163,Samsung Galaxy ZFLIP3 8/256,$4.999.900,Tigo,,,Samsung,galaxy zflip3 8256
 164,IPHONE 13  256GB,$4.799.901,Tigo,,256,iPhone,13 
 165,Samsung Galaxy S21+,$4.299.900,Tigo,,,Samsung,galaxy s21+
 166,iPhone 12 128GB,$3.739.901,Tigo,,128,iPhone,12 
@@ -244,11 +244,11 @@
 242,iPhone 13 Pro128 GB,$5.339.929,Movistar,,128,iPhone,13 pro
 243,iPhone 13 Pro256 GB,$5.869.929,Movistar,,256,iPhone,13 pro
 244,iPhone 13 Pro512 GB,$6.939.929,Movistar,,512,iPhone,13 pro
-245,iPhone 13 Pro1 TB,$7.999.929,Movistar,,,iPhone,13 pro1 tb
+245,iPhone 13 Pro1 TB,$7.999.929,Movistar,,1,iPhone,3 pro tb
 246,iPhone 13 Pro Max128 GB,$5.866.929,Movistar,,128,iPhone,13 pro max
 247,iPhone 13 Pro Max256 GB,$6.399.929,Movistar,,256,iPhone,13 pro max
 248,iPhone 13 Pro Max512 GB,$7.465.929,Movistar,,512,iPhone,13 pro max
-249,iPhone 13 Pro Max1 TB,$8.529.929,Movistar,,,iPhone,13 pro max1 tb
+249,iPhone 13 Pro Max1 TB,$8.529.929,Movistar,,1,iPhone,3 pro max tb
 250,iPhone XS64 GB,$2.999.929,Movistar,,64,iPhone,xs
 251,iPhone 11128 GB,$2.909.929,Movistar,,128,iPhone,11
 252,iPhone 11 Pro Max64 GB,$5.349.929,Movistar,,64,iPhone,11 pro max
@@ -262,8 +262,8 @@
 260,iPhone 12 Pro128 GB,$4.864.929,Movistar,,128,iPhone,12 pro
 261,iPhone 12 Mini128 GB,$3.459.929,Movistar,,128,iPhone,12 mini
 262,Moto E6 Play,$299.950,Movistar,,,Motorola,e6 play
-263,Moto G764 GB,$599.950,Movistar,,764,Motorola,g
-264,Moto E2032 GB,$439.950,Movistar,,032,Motorola,e2
+263,Moto G764 GB,$599.950,Movistar,,64,Motorola,g7
+264,Moto E2032 GB,$439.950,Movistar,,32,Motorola,e20
 265,Moto G20128 GB,$679.909,Movistar,,128,Motorola,g20
 266,Moto G60128 GB,$1.299.909,Movistar,,128,Motorola,g60
 267,Moto G60s128 GB,$1.099.909,Movistar,,128,Motorola,g60s
@@ -280,7 +280,7 @@
 278,Motorola One Zoom128 GB,$1.299.909,Movistar,,128,Motorola,one zoom
 279,Moto E6S32 GB,$349.950,Movistar,,32,Motorola,e6s
 280,Moto E7 Plus,$419.950,Movistar,,,Motorola,e7 plus
-281,Moto E732 GB,$419.950,Movistar,,732,Motorola,e
+281,Moto E732 GB,$419.950,Movistar,,32,Motorola,e7
 282,Moto G100,$1.999.909,Movistar,,,Motorola,g100
 283,Motorola One Macro,$479.950,Movistar,,,Motorola,one macro
 284,Moto E7i Power,$399.950,Movistar,,,Motorola,e7i power
@@ -302,7 +302,7 @@
 300,Xiaomi MI 11 Lite,$1.999.889,Movistar,,,Xiaomi,mi 11 lite
 301,Xiaomi Redmi Note 8 2021,$699.889,Movistar,,,Xiaomi,note 8 2021
 302,SAMSUNG S21 FE 256GB,$3.499.900,Movistar,,256,Samsung,s21 fe 
-303,Samsung Galaxy A0132 GB,$369.950,Movistar,,132,Samsung,galaxy a0
+303,Samsung Galaxy A0132 GB,$369.950,Movistar,,32,Samsung,galaxy a01
 304,Samsung Galaxy A1264GB,$599.950,Movistar,,264,Samsung,galaxy a1
 305,Samsung Galaxy S21128 GB,$3.599.899,Movistar,,128,Samsung,galaxy s21
 306,Galaxy Zflip 3256 GB,$4.999.900,Movistar,,256,,galaxy zflip 3
@@ -332,7 +332,7 @@
 330,Samsung Galaxy A72,$1.799.939,Movistar,,,Samsung,galaxy a72
 331,Samsung Galaxy A22128GB,$797.939,Movistar,,128,Samsung,galaxy a22
 332,Samsung Galaxy A12128GB,$669.939,Movistar,,128,Samsung,galaxy a12
-333,Samsung Galaxy A0232GB,$379.950,Movistar,,232,Samsung,galaxy a0
+333,Samsung Galaxy A0232GB,$379.950,Movistar,,32,Samsung,galaxy a02
 334,Samsung A02S64GB,$499.950,Movistar,,64,Samsung,a02s
 335,Samsung Galaxy S20 Ultra,$4.999.939,Movistar,,,Samsung,galaxy s20 ultra
 336,Samsung Galaxy A11,$499.950$529.950,Movistar,,,Samsung,galaxy a11
@@ -351,7 +351,7 @@
 349,Vivo Y11S,$529.950,Movistar,,,Vivo,y11s
 350,Vivo V21,$1.799.879,Movistar,,,Vivo,v21
 351,Huawei Nova 9128 GB,$2.199.919,Movistar,,128,Huawei,nova 9
-352,Huawei Nova Y6032 GB,$549.950,Movistar,,032,Huawei,nova y6
+352,Huawei Nova Y6032 GB,$549.950,Movistar,,32,Huawei,nova y60
 353,Huawei Nova 8i128 GB,$1.299.919,Movistar,,128,Huawei,nova 8i
 354,Huawei P30 Lite,$1.099.919,Movistar,,,Huawei,p30 lite
 355,Huawei Y7 2019,$499.950,Movistar,,,Huawei,y7 2019
@@ -383,7 +383,7 @@
 381,Nokia G20,$679.869,Movistar,,,Nokia,g20
 382,Nokia G10,$519.950,Movistar,,,Nokia,g10
 383,Nokia C01 Plus,$299.950,Movistar,,,Nokia,c01 plus
-384,Alcatel 116 GB,$199.950,Movistar,,116,Alcatel,
+384,Alcatel 116 GB,$199.950,Movistar,,16,Alcatel,1
 385,Alcatel 3 2019,$399.950,Movistar,,,Alcatel,3 2019
 386,Alcatel 1,$209.950,Movistar,,,Alcatel,1
 387,Alcatel 1S 2020,$399.950,Movistar,,,Alcatel,1s 2020

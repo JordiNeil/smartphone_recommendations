@@ -25,15 +25,20 @@ def get_matches_multi_params(db: Session, params,  price):
         highest_price = price*1.1
         lowest_price = price*0.9
     else:
-        return query.order_by(models.Device.price).all()
+        return query.order_by(models.Device.price).limit(5).all()
     
-    return query.filter(models.Device.price.between(lowest_price, highest_price)).order_by(models.Device.price).all()
+    return query.filter(models.Device.price.between(lowest_price, highest_price)) \
+        .order_by(models.Device.price) \
+        .limit(5).all()
 
 def get_matches_by_model(db: Session, model):
-    return db.query(models.Device).filter(models.Device.model.contains(model.lower()))
+    return db.query(models.Device) \
+            .filter(models.Device.model.contains(model.lower())) \
+            .order_by(models.Device.price).limit(5)
 
 def get_matches_by_ram(db: Session, ram):
-    return db.query(models.Device).filter(models.Device.ram == ram)
+    return db.query(models.Device).filter(models.Device.ram == ram) \
+            .order_by(models.Device.price).limit(5)
 
 def get_matches_by_rom(db: Session, rom):
     return db.query(models.Device).filter(models.Device.rom == rom)

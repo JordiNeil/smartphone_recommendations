@@ -27,9 +27,12 @@ def get_db():
         db.close()
 
 @app.get("/get_recommendations/", response_model=List[schemas.Device])
-def get_recommendations(value, ram: str=None, rom: str=None, price: str=None, db: Session = Depends(get_db)):
+def get_recommendations(model: str=None, ram: str=None, rom: str=None, price: str=None, db: Session = Depends(get_db)):
 
-    if value is None or value.strip() == '':
+    if (model is None or model.strip() == '' 
+        and ram is None 
+        and rom is None 
+        and price is None):
         raise HTTPException(
             status_code=400,
             detail='You must send any device information.'
@@ -37,7 +40,7 @@ def get_recommendations(value, ram: str=None, rom: str=None, price: str=None, db
     else:
         params = {}
 
-        device = DevicesParser(value, ram, rom)
+        device = DevicesParser(model, ram, rom)
         params['ram'] = device.ram
         params['rom'] = device.rom
         params['model'] = device.model        
@@ -50,5 +53,6 @@ def get_recommendations(value, ram: str=None, rom: str=None, price: str=None, db
 
         return matches
 
+##Comment these two line when running with docker
 if __name__ == '__main__':
     uvicorn.run(app, host='0.0.0.0', port=8080)

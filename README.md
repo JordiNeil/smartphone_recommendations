@@ -107,7 +107,7 @@ If you send *'note 10'* in the value param, the system is going to search for al
 ]
 ```
 
-The system always will return a list of JSON objects, every object is a Device. And every device has is own information, like *model*, *vendor*, *brand*, *ram*, *rom*, *last_seen* and *price*.
+The system always will return a list of JSON objects, every object is a Device. And every device has its own information, like *model*, *vendor*, *brand*, *ram*, *rom*, *last_seen* and *price*.
 
 The results are ordered by price. 
 

@@ -53,6 +53,6 @@ def get_recommendations(model: str=None, ram: str=None, rom: str=None, price: st
 
         return matches
 
-##Comment these two line when running with docker
-if __name__ == '__main__':
-    uvicorn.run(app, host='0.0.0.0', port=8080)
+##Comment these two lines when running with docker
+# if __name__ == '__main__':
+#     uvicorn.run(app, host='0.0.0.0', port=8080)

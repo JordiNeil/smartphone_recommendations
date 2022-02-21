@@ -4,10 +4,10 @@ from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 
-host = os.environ['host'] = '192.168.0.105'
-dbname = os.environ['dbname'] = 'smartphones'
-password = os.environ['password'] = '654321'
-user = os.environ['user'] = 'postgres'
+host = os.environ['host']
+dbname = os.environ['dbname']
+password = os.environ['password']
+user = os.environ['user']
 
 SQLALCHEMY_DATABASE_URL = "postgresql://{}:{}@{}:5432/{}".format(user, password, host, dbname)
 

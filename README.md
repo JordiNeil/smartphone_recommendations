@@ -20,11 +20,11 @@ and then access to
 
 http://127.0.0.1/docs
 
-![Api view to run queries](documentation_files/api_view.PNG?raw=true "Api view")
+![Api view to run queries](https://github.com/JordiNeil/smartphone_recommendations/documentation_files/api_view.PNG?raw=true "Api view")
 
 Inside the **GET** dropdown you can see the query options
 
-![Api view to run queries](documentation_files/query_options.PNG?raw=true "Api view")
+![Api view to run queries](https://github.com/JordiNeil/smartphone_recommendations/documentation_files/query_options.PNG?raw=true "Api view")
 
 Is required to send at least one parameter, that way the system can give you any recommendation. If you send more parameters, the system will filter by them and return a more specific recommendation.
 

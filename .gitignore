@@ -4,3 +4,4 @@
 *.pyc
 *cfg
 scrapper/
+vendors/**/*.png

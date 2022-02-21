@@ -32,7 +32,7 @@ Due to the design of the table, you do not need to be too specific or precise, f
 
 If you send *'note 10'* in the value param, the system is going to search for all the models that match with it.
 
-```
+```json
 [
   {
     "model": "note 10 5g",

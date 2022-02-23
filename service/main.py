@@ -1,3 +1,4 @@
+from enum import Enum
 import logging
 import uvicorn 
 from pyexpat import model
@@ -11,6 +12,7 @@ from sqlalchemy.orm import Session
 import crud, models, schemas
 from DevicesParser import DevicesParser
 from database import SessionLocal, engine
+from utils import constants
 
 models.Base.metadata.create_all(bind=engine)
 
@@ -27,11 +29,18 @@ def get_db():
         db.close()
 
 @app.get("/get_recommendations/", response_model=List[schemas.Device])
-def get_recommendations(model: str=None, ram: str=None, rom: str=None, price: str=None, db: Session = Depends(get_db)):
+def get_recommendations(
+        model: str=None, 
+        ram: str=None, 
+        rom: str=None, 
+        price: str=None, 
+        brand: Enum('Brands', constants.BRANDS_DICT) = None, 
+        db: Session = Depends(get_db)):
 
-    if (model is None or model.strip() == '' 
+    if ((model is None or model.strip() == '') 
         and ram is None 
         and rom is None 
+        and brand is None
         and price is None):
         raise HTTPException(
             status_code=400,
@@ -40,10 +49,11 @@ def get_recommendations(model: str=None, ram: str=None, rom: str=None, price: st
     else:
         params = {}
 
-        device = DevicesParser(model, ram, rom)
+        device = DevicesParser(model, ram, rom, brand)
         params['ram'] = device.ram
         params['rom'] = device.rom
-        params['model'] = device.model        
+        params['brand'] = device.brand
+        params['model'] = device.model     
         matches = crud.get_matches_multi_params(db, params, price)
         while(matches is None and len(params)>2):
             params.popitem()

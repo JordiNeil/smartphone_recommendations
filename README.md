@@ -3,7 +3,7 @@ Web scrapping software for collecting smartphones prices and characteristics, pr
 
 **Functionality**
 
-This projects in progress. It aims to help people to find the smartphone they wants at the lowest prices. It works by scrapping prices from different vendors web pages, and store them into a csv file named *checkpoint.csv*. Currently it is limited to local vendors such as Claro, Movistar, Tigo and Ktronix (Colombia) 
+This project is in progress. It aims to help people to find the smartphone they wants at the lowest prices. It works by scrapping prices from different vendors web pages, and store them into a csv file named *checkpoint.csv*. Currently it is limited to local vendors such as Claro, Movistar, Tigo and Ktronix (Colombia) 
 
 This repo also contains the service code. This service gives you recommendations based on what you send as parameter, similarly to a pretty basic browser. You can execute it by just running the docker container.
 

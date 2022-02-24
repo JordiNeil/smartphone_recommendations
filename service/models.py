@@ -15,6 +15,7 @@ class Device(Base):
     rom = Column(Integer)
     last_seen = Column(Date)
     price = Column(String)
+    network = Column(String)
 
     brand = relationship("Brand", back_populates="devices")
     vendor = relationship("Vendor", back_populates="devices")

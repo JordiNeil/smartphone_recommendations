@@ -26,6 +26,7 @@ class Device(BaseModel):
     brand: Optional[Brand] = None    
     last_seen: Optional[date_type] = None  
     price: str
+    network: Optional[str] = None
 
     class Config:
         orm_mode = True

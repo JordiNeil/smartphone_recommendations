@@ -1,3 +1,5 @@
+from enum import Enum
+
 POSSIBLE_MEMORY_VALUES = [1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024]
 BRANDS_DICT = {
     'Samsung': 'samsung',
@@ -16,6 +18,11 @@ BRANDS_DICT = {
     'Realme': 'realme'
 
 }
+
+BRANDS_DICT_REQUEST = BRANDS_DICT.copy()
+BRANDS_DICT_REQUEST['default'] = None
+
+BRAND_ENUM = Enum('BRAND_ENUM', BRANDS_DICT_REQUEST)
 
 def get_model_stop_words():
     model_stop_words = '/'

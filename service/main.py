@@ -34,7 +34,7 @@ def get_recommendations(
         ram: str=None, 
         rom: str=None, 
         price: str=None, 
-        brand: Enum('Brands', constants.BRANDS_DICT) = None, 
+        brand: constants.BRAND_ENUM=constants.BRAND_ENUM.default, 
         db: Session = Depends(get_db)):
 
     if ((model is None or model.strip() == '') 

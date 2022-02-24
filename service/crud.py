@@ -29,11 +29,11 @@ def get_matches_multi_params(db: Session, params,  price):
         highest_price = int(price)*1.3
         lowest_price = int(price)*0.7
     else:
-        return query.order_by(Device.price).limit(5).all()
+        return query.order_by(Device.price).limit(10).all()
     
     return query.filter(Device.price.between(lowest_price, highest_price)) \
         .order_by(Device.price) \
-        .limit(5).all()
+        .limit(10).all()
 
 def get_matches_by_model(db: Session, model):
     return db.query(Device) \

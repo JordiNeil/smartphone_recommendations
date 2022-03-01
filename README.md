@@ -121,3 +121,9 @@ Please, don't run a lot of requests, it's running on AWS free tier and I'm unemp
 
 To see what is coming next, check the issues section. 
 If you want to contribute, just do a Pull Request. 
+
+**Update** 
+I had to block all the ips to accessing the link above because I was getting weird requests,
+really boys? Nice try using a VPN, but only the people from you country uses those characteres. 
+This is for you, 125.42.224.122, 185.254.196.218
+At least, if you want to test your pentesting skills on my service, let me know. 

@@ -129,6 +129,5 @@ http://smartphones-suggester.s3-website-us-east-1.amazonaws.com
 
 **Update** 
 I had to block all the ips to accessing the link above because I was getting weird requests,
-really boys? Nice try using a VPN, but only the people from you country uses those characteres. 
-This is for you, 125.42.224.122, 185.254.196.218
+really boys? Nice try using a VPN.
 At least, if you want to test your pentesting skills on my service, let me know. 

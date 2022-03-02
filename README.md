@@ -122,6 +122,11 @@ Please, don't run a lot of requests, it's running on AWS free tier and I'm unemp
 To see what is coming next, check the issues section. 
 If you want to contribute, just do a Pull Request. 
 
+Today, 02/03/2022 is running the frontend side of the project
+it's running on, go to check it! Of course I'm open to suggestions, especially design suggestions. 
+
+http://smartphones-suggester.s3-website-us-east-1.amazonaws.com
+
 **Update** 
 I had to block all the ips to accessing the link above because I was getting weird requests,
 really boys? Nice try using a VPN, but only the people from you country uses those characteres. 

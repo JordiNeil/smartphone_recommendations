@@ -20,7 +20,11 @@ BRANDS_DICT = {
 }
 
 BRANDS_DICT_REQUEST = BRANDS_DICT.copy()
-BRANDS_DICT_REQUEST['default'] = None
+BRANDS_DICT_REQUEST['default'] = 'any'
+BRANDS_DICT_REQUEST['Xiaomi'] = 'xiaomi'
+BRANDS_DICT_REQUEST['Motorola'] = 'motorola'
+BRANDS_DICT_REQUEST['iPhone'] = 'apple'
+
 
 BRAND_ENUM = Enum('BRAND_ENUM', BRANDS_DICT_REQUEST)
 

@@ -46,7 +46,7 @@ def get_recommendations(
     if ((model is None or model.strip() == '') 
         and ram is None 
         and rom is None 
-        and brand is None
+        and (brand == constants.BRAND_ENUM.default)
         and price is None):
         raise HTTPException(
             status_code=400,

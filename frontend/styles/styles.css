@@ -30,21 +30,23 @@
 
 .features{
     display: flex;
+    flex-flow: row wrap;
     justify-content: space-around;
     max-width: 100%;
     font-family: 'Montserrat', sans-serif;
     font-weight: 1000;
+    vertical-align: middle;
 }
 
-.search-feature{
-    display: inline-block;
+.search-feature{    
     padding: 2%;
     font-weight: 2000;
+    vertical-align: middle;
 }
 
 #model{
-    size:2%;
-    resize: none;
+    size:100%;
+    resize:horizontal;
     border: 1%;
     box-sizing: border-box;
     border: 2px solid lightblue;
@@ -54,8 +56,9 @@
 
 #feature-text{
     text-align: center;
-    padding: 4%;
+    padding: 1%;
     font-weight: 2000;
+    vertical-align: middle;
 }
 
 .btn-change{
@@ -77,7 +80,7 @@
 .form-control{
     border: 3px solid lightblue;
     border-radius: 10px;
-    background-color: lightblue;
+    background-color: white;
 }
 
 #rom{
@@ -85,3 +88,33 @@
     justify-content: space-around;
     max-width: 100%;
 }
+
+th {
+    text-align: center;
+}
+
+.devicesTable {
+    padding: 0;
+    margin: auto;
+    border-collapse: collapse;
+    width: 90%;
+    text-align: center;
+    color: black;
+    }
+    .devicesTableHeaderRow {
+    color: rgb(0, 183, 255);
+    font-weight: bold;
+    height: 50px;
+    text-align: center;
+    }
+    .devicesTableBodyRow:nth-child(odd){background-color: rgba(128, 128, 128, 0.050);}
+    #latestUserScore {
+    background-color: crimson;
+    }
+    .devicesTableBodyRow:hover{
+    background-color: darkorange;
+    }
+    .devicesTable tr td {
+    height: 25px;
+    }
+
